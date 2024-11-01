@@ -123,3 +123,4 @@ limitations under the License.
 [nextjs]: https://nextjs.org/
 [live-demo]: https://nextjs-starter-prismic-minimal.vercel.app/
 # Fizzi
+# Fizzi
